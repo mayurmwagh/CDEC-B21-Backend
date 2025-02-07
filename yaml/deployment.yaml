@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: backend-app
-          image: mayurwagh/CDEC-B21-Backend:latest
+          image: mayurwagh/cdec-b21-backend:latest
           ports:
             - containerPort: 8080
